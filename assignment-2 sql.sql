@@ -54,4 +54,4 @@ from foodorders;
 
 SELECT DISTINCT food_item, restaurant FROM FoodOrders LIMIT 2;
  
-it is true query andd limit keyword place is correct
+it is true query and limit keyword place is correct
